@@ -11,4 +11,5 @@ choco upgrade 7zip.install
 choco upgrade notepadplusplus.install 
 choco upgrade ccleaner 
 choco upgrade spacesniffer
+choco upgrade yed
 ```
